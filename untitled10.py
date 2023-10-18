@@ -1,5 +1,3 @@
-# user_data.py
-
 # Function to get user data and store it in a set
 def get_user_data():
     data_set = set()
